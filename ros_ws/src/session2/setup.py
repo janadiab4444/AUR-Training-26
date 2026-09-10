@@ -33,6 +33,7 @@ setup(
             'action_server = session2.action_server:main',
             'action_client = session2.action_client:main',
             'general_node = session2.general_node:main',
+            'go_to_goal = session2.go_to_goal:main',
         ],
     },
 )
